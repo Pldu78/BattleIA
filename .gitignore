@@ -367,3 +367,20 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+*.exe
+*.info
+*.config
+BattleIAviewers/Viewer battle ia port 4626/BATTLEIA NEW_Data/globalgamemanagers
+*.assets
+BattleIAviewers/Viewer battle ia port 4626/BATTLEIA NEW_Data/level0
+*.dll
+*.resS
+BattleIAviewers/Viewer battle ia port 4626/BATTLEIA NEW_Data/Resources/unity default resources
+BattleIAviewers/Viewer battle ia port 4626/BATTLEIA NEW_Data/Resources/unity_builtin_extra
+*.resource
+*.browser
+*.aspx
+*.map
+*.ini
+BattleIAviewers/Viewer battle ia port 4626/MonoBleedingEdge/etc/mono/config
+*.xml
